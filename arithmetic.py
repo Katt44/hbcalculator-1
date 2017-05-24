@@ -38,7 +38,8 @@ def power(num1, num2):
     return total
 
 def mod(num1, num2):
-    """Return the remainder of num / num2."""
-
+    """Return the remainder of num1 / num2."""
+    total = num1 % num2
+    return total
 
 #git initialized
